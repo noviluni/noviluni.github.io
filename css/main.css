@@ -25,6 +25,11 @@ p {
     color: #000;
 }
 
+li {
+    font-size: 1.25em;
+    padding-bottom: 0.75em;
+}
+
 hr {
     max-width: 400px;
     border-color: #999999;
